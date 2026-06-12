@@ -1,0 +1,7 @@
+# .dockerignore
+Ressources
+Dataset
+Results
+.venv
+*.egg-info
+__pycache__
