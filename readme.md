@@ -38,22 +38,10 @@ if you want to run it locally on your machine or by building and running our doc
 
 ## Cite as
 
-PPSN Citation to be added 
+Fully updated PPSN citation will be added later -- this is a preliminary version:
 
+Connor Schönberner, Armin Mackensen, and Sven Tomforde. (2026). Latent Representation Learning for Visual Reinforcement Learning with a Classifier System. In Parallel Problem Solving from Nature – PPSN XIX. PPSN 2026. Lecture Notes in Computer Science, Springer, Cham. 
 
 You could in addition cite the following for our older version:
 
-@inproceedings{schonbernerDimensionalityReductionEnabling2025a,
-  title = {Dimensionality {{Reduction}} for {{Enabling Visual Reinforcement Learning}} with a {{Classifier System}}},
-  booktitle = {Proceedings of the {{Genetic}} and {{Evolutionary Computation Conference Companion}}},
-  author = {Schönberner, Connor and Mackensen, Armin and Tomforde, Sven},
-  date = {2025-08-11},
-  series = {{{GECCO}} '25 {{Companion}}},
-  pages = {2269--2278},
-  publisher = {Association for Computing Machinery},
-  location = {New York, NY, USA},
-  doi = {10.1145/3712255.3734321},
-  abstract = {Originally, the XCS Classifier System, seen as the most popular and most researched Learning Classifier System (LCS), was designed to learn and solve Reinforcement Learning (RL) problems. As has become clear over time, known weaknesses and the curse of dimensionality of Michigan-style LCSs severely limit its applicability to RL problems. As a result, visual RL problems generally appear to be outside the scope of XCS variants. We target this class of RL benchmarks by combining XCSF, XCS with hyperrectangle conditions and computed linear prediction, with dimensionality reduction methods. In particular, we combine deep variational autoencoders (VAE) with XCSF using an automatic dataset collection scheme and offline training of the VAE and online training for the combined system to target several visual RL problems. Our results show that XCSF is able to learn visual RL problems in the latent space of deep VAEs. Further experiments confirm that simple downscaling of images can also enable XCSF to learn several visual RL problems. Our results do not only indicate that XCSF is better at RL than its reputation, but show that significantly more RL problems might be within the scope of XCSF and motivate further investigation of dimensionality reduction methods for LCSs.},
-  isbn = {979-8-4007-1464-1},
-  venue = {Spain, Malaga}
-}
+Connor Schönberner, Armin Mackensen, and Sven Tomforde. 2025. Dimensionality Reduction for Enabling Visual Reinforcement Learning with a Classifier System. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion). Association for Computing Machinery, New York, NY, USA, 2269–2278. https://doi.org/10.1145/3712255.3734321
